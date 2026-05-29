@@ -1,4 +1,7 @@
-# Content Creation Agent: Style Guide & Knowledge Base (kaize-style)
+---
+name: content-creation-skill
+description: skill based on kaize
+---
 
 ---
 
