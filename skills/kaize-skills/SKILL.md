@@ -1,5 +1,4 @@
 ---
-
 name: content-creation-skill
 description: skill based on kaize
 ---
