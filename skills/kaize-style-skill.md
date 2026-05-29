@@ -1,4 +1,4 @@
-# Content Creation Agent — Style Guide & Knowledge Base (kaize-style)
+# Content Creation Agent: Style Guide & Knowledge Base (kaize-style)
 
 ---
 
